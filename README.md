@@ -8,11 +8,11 @@ Learning how to code or just interested in open source?
 What to do:
 ==============
 
-1. Pick up any challenge.
-2. Read the task and complete the code.
+1. This repository is a collection of all the LeetCode problem's solutions using different programming languages.
+2. Read the task [here](https://leetcode.com/problemset/all/) and complete the code and take screenshot of working solution.
 3. After completion create a PR on this repository.
-4. We'll check your code is correct and is able to be merged.
-5. Congrats! That's it.
+4. We'll check your screenshots if its correct and is able to be merged.
+5. Congrats! That's it. Happy HacktoberFest!!!
 
 Celebrate Open Source Contribution!
 
